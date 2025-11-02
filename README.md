@@ -1,5 +1,5 @@
-# LivHealth HMIS
-
+# VetNxt
+National OneHealth Hackathon
 Livestock Health Management Information System - An Android application for tracking animal health records using QR codes and NFC tags.
 
 ## Features
@@ -88,4 +88,5 @@ app/src/main/java/com/yourorg/livhealth/
 ## License
 
 This project is created for livestock health management purposes.
+
 
